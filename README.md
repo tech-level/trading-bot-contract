@@ -1,3 +1,6 @@
+
+![yt-banner](https://github.com/tech-level/trading-bot-contract/assets/101083109/1c7bd7b0-274b-4ab7-8129-0944378105c1)
+
 🚨🚨 READ ME! : I've received messages from people who didn't fund the contract with enough Ethereum to cover gas fees and possible burn fees. The bot targets token contracts with max 10% burn fee and anything lower. However, nowadays most tokens come with 2~6% fees. If you fund the contract with 0.4 ETH or less, and the bot targets another token with high burn fees, the contract will waste a lot of gas fees. I recommend funding the contract with at least 0.5 ~ 1 ETH to make sure that won't happen.🚨🚨
 
 **STEP BY STEP INSTRUCTIONS**
